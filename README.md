@@ -7,7 +7,7 @@ INPUT JSON : The Coffee Machine expects a json input with keys same as : https:/
 Example -> python main.py {File Location}
 
 To run the program with sample input
-    python main.py test.json
+    `python main.py test.json`
 
 REFILL INGREDIENTS : The initial ingredients are added based on the input. After all beverages are processed (N at a time), the machine asks whether any of the present ingredients need to be refilled. To refill any of the ingredients, input has to be provided in the console as asked by the machine. Note : The ingredient to be refilled must be present in the machine.
 
